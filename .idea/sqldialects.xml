@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/18e9075b-d2b1-413d-b37e-7945ab3754bc/console.sql" dialect="Derby" />
+  </component>
+</project>
